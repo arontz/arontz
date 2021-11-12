@@ -1,7 +1,7 @@
 ### Hi there 👋
-![MieSaF's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arontz&show_icons=true&theme=onedark&count_private=true)
+![arontz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arontz&show_icons=true&theme=onedark&count_private=false)
 
-![MieSaF's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arontz&layout=compact&theme=dark&langs_count=8&exclude_repo=bookers-BE,ASL-Detection)
+![arontz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arontz&layout=compact&theme=dark&langs_count=8&exclude_repo=bookers-BE,ASL-Detection)
 <!--
 **arontz/arontz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
