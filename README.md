@@ -8,6 +8,8 @@
 ![arontz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arontz&layout=compact&theme=dark&langs_count=8&exclude_repo=bookers-BE,ASL-Detection)
 - 🔭 I’m currently working on BackEnd Dev using NodeJS , ExpressJS (not ready to use [Sails](https://github.com/balderdashy/sails) or [Actionhero](https://github.com/actionhero/actionhero))
 - 🌱 I’m currently learning [Elasticsearch](https://www.elastic.co/)
+
+![counter](https://endv7mpd40rdq2n.m.pipedream.net)
 <!--
 **arontz/arontz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
