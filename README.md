@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 its like nothing here that is because im using GitLab now (https://gitlab.com/baharonzo) and mostly private repo ✌
 ![arontz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arontz&show_icons=true&theme=onedark&count_private=false)
 
 ![arontz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arontz&layout=compact&theme=dark&langs_count=8&exclude_repo=bookers-BE,ASL-Detection)
