@@ -1,7 +1,8 @@
 ### Hi there 👋 
 
 <sub>its like nothing here that is because im using GitLab now well of course it private repo so ya have a look below: ✌
-> https://gitlab.com/baharonzo </sub>
+> https://gitlab.com/baharonzo
+> https://github.com/baharun-dev </sub>
 
 ![arontz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arontz&show_icons=true&theme=onedark&count_private=false)
 
