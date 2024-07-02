@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-<sub>its like nothing here that is because im using GitLab now well of course it private repo so ya have a look below: ✌
+<sub>its like nothing here that is because im using GitLab and/or work git now well of course it private repo so ya have a look below: ✌
 > https://gitlab.com/baharonzo
 > https://github.com/baharun-dev </sub>
 
